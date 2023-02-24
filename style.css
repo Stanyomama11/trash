@@ -1,0 +1,20 @@
+ canvas {
+ 	margin-top: 1%;
+ 	margin-left: 28%;
+ 	background-image: url("disko.jpg");
+ }
+ 
+ p {
+ margin-left: 38%;
+ }
+ 
+ textarea {
+ margin-left: 35%;
+ }
+ 
+ body {
+ background-color:DodgerBlue;
+ }
+ input {
+ margin-left: 39%;
+ }
